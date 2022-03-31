@@ -1,0 +1,22 @@
+{
+  "name": "vef2-verkefni5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gunnarbjo/vef2-verkefni5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gunnarbjo/vef2-verkefni5/issues"
+  },
+  "homepage": "https://github.com/Gunnarbjo/vef2-verkefni5#readme",
+  "dependencies": {
+    "eslint": "^8.12.0"
+  }
+}
